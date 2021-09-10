@@ -1,5 +1,4 @@
 # d3a.io.projects
 QE Automation Lead Test
-run the script as follow:\n
-npm install\n
-npm test
+run the script as follow:
+npm install && npm test
